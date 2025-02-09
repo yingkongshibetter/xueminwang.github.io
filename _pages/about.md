@@ -1,13 +1,5 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 
 
----
 
 I am a Lecturer in the [School of Computer Science and Information Security](http://www.gdufe.edu.cn/) at [Guilin University of Electronic Technology](http://www.gdufe.edu.cn/), where I obtained my Ph.D. degree. My research focuses primarily on **fairness** and **privacy protection** in Graph Neural Networks (GNNs).
 
